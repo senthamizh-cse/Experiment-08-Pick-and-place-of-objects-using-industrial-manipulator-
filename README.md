@@ -99,19 +99,17 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
-###program:
+program:
 
 
 ![Screenshot 2022-11-21 183152](https://user-images.githubusercontent.com/113031811/203061961-c6bf4176-d2e2-46b2-8285-d6a9adb42829.png)
-
 ![Screenshot 2022-11-21 174639](https://user-images.githubusercontent.com/113031811/203061973-57627e1c-2226-45ff-b999-a810cabe4a8d.png)
-
-
 ![Screenshot 2022-11-21 183217](https://user-images.githubusercontent.com/113031811/203061990-bbd26d34-a164-4ceb-b5d9-4c26106b8f0e.png)
 
 
-###Robot action:
-![Uploading Screenshot 2022-11-21 174831.png…]()
+### Robot action:
+![Screenshot 2022-11-21 174831](https://user-images.githubusercontent.com/113031811/203062388-9ad405b9-069c-44a2-9ad0-f800d9275634.png)
+
 
 
 ### Results: 
